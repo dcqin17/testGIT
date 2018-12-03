@@ -1,0 +1,25 @@
+To edit directory:
+
+$git clone https://github.com/dcqin17/testGIT.git
+
+To list files in directory:
+$ls
+
+To change directories:
+
+$cd C/
+$cd GIT/
+
+To check status:
+$ git status
+
+To add file:
+$git add
+
+To commit file (first save point):
+
+$git commit -m "first commit" test.txt
+##$ git commit -m "[comments]" [file_name]
+
+To push (resave/edit):
+$git push -u origin master
